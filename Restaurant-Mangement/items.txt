@@ -1,0 +1,7 @@
+1, veg pizza,120
+2, garlic bread, 200
+3, Egg Roll,50
+4, Momo,5
+5, liti choka, 100
+6, pani puri, 100
+7, pani puri, 100
